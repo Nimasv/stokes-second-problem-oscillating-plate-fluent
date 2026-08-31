@@ -1,0 +1,51 @@
+# ── Ansys solver files ──────────────────────────────────────────────
+*.cas.h5
+*.dat.h5
+*.cas
+*.dat
+*.msh
+*.jou
+*.trn
+
+# Fluent transcript and scheme session files
+transcript
+*.scm
+
+# CFD-Post session and state files
+*.cst
+*.cse
+
+# Workbench project files
+*.wbpj
+*.wbpz
+dp*/
+user_files/
+
+# ── Large binary / mesh outputs ──────────────────────────────────────
+*.cgns
+*.res
+*.bak
+*.fluentbackup
+
+# ── Python / validation scripts ──────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+
+# ── OS and editor clutter ────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.code-workspace
+
+# ── Logs ─────────────────────────────────────────────────────────────
+*.log
+```...

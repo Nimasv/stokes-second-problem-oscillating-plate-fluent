@@ -28,9 +28,13 @@ Cells     : 19,000
 Faces     : 38,380
 Nodes     : 19,380
 
-Mesh images are located in the geometry_mesh/ folder:
-  - geometry_mesh/StaticFigure14.png   (full domain overview)
-  - geometry_mesh/StaticFigure16.png   (near-wall detail)
+Mesh images are located in the `geometry_mesh/` folder:
+
+![Mesh Overview](geometry_mesh/StaticFigure14.png)
+*Full domain overview*
+
+![Near-wall Detail](geometry_mesh/StaticFigure16.png)
+*Near-wall detail*
 
 ---
 
@@ -76,8 +80,8 @@ Fluid    : Water-liquid (nu = 1.004e-6 m^2/s, rho = 998.2 kg/m^3)
 
 ## Results
 
-Velocity profile animation (GIF) is located in the results/ folder:
-  - results/IMG_9784.gif
+![Velocity Profile Animation](results/IMG_9784.gif)
+
 
 The animation shows the x-velocity profile (Y-Coordinate vs. X Velocity)
 evolving over time and converging toward the analytical Stokes solution.

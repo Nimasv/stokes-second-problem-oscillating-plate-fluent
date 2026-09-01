@@ -30,8 +30,9 @@ Nodes     : 19,380
 
 ## Geometry & Mesh
 
-![Mesh overview](geometry_mesh/StaticFigure14.png)
-![Mesh detail](geometry_mesh/StaticFigure16.png)
+![Mesh Figure 14](oscillating_velocity/geometry_mesh/StaticFigure14.png)
+![Mesh Figure 16](oscillating_velocity/geometry_mesh/StaticFigure16.png)
+
 
 
 ---
@@ -78,7 +79,7 @@ Fluid    : Water-liquid (nu = 1.004e-6 m^2/s, rho = 998.2 kg/m^3)
 
 ## Results
 
-![Velocity animation](results/IMG_9784.gif)
+![Animation](oscillating_velocity/results/IMG_9784.gif)
 
 
 The animation shows the x-velocity profile (Y-Coordinate vs. X Velocity)
